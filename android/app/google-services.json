@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152376884884",
+    "firebase_url": "https://fluterin-b3b71.firebaseio.com",
+    "project_id": "fluterin-b3b71",
+    "storage_bucket": "fluterin-b3b71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152376884884:android:9bd7667c4910f37b23fe81",
+        "android_client_info": {
+          "package_name": "com.example.instaApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152376884884-spcarbs64fajlghas220bj72kfvhjn75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instaApp",
+            "certificate_hash": "87824cce50512aeab43b689f4d38162a3c62414d"
+          }
+        },
+        {
+          "client_id": "152376884884-vc4h2vhdv4114pr8sc14s10ogg5fs4o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIy8rZZCB_dFMyAUTBfHn45XYIfgp-m9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152376884884-vc4h2vhdv4114pr8sc14s10ogg5fs4o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
